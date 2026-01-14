@@ -14,24 +14,24 @@ My SQL을 활용하여 데이터베이스를 운용, Node.js를 활용한 모의
 
 Diagram - ER
 <br>
-<img src="img/001.png">
+<img src="img/001.png"  width="350">
 <br><br>
   
 Diagram - EDR
 <br>
-  <img src="img/002.png">
+  <img src="img/002.png"  width="350">
 
 
 ## 데이터 크롤링
 모의 사이트이기 때문에 실제로 판매되어 지고 있는 사이트의 상품의 데이터를 크롤링 하여 데이터베이스에 삽입하였습니다.
 <br>
 <center><테이블 1. 크롤링 데이터></center>
- <img src="img/003.png">
+ <img src="img/003.png" width="350">
 
 
 <br>
 <center><테이블 2. SQL 데이터></center>
- <img src="img/004.png">
+ <img src="img/004.png" width="350">
 
 
 <br>

@@ -11,12 +11,15 @@ My SQL을 활용하여 데이터베이스를 운용, Node.js를 활용한 온라
 
 ## ER 다이어그램
 <br>
+
 <center><Diagram - ER><center>
+<br>
 <img src="img/001.png">
 <br><br>
   
 <center><Diagram - EDR><center>
-<img src="img/002.png">
+<br>
+  <img src="img/002.png">
 
 
 ## 데이터 크롤링

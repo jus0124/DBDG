@@ -82,22 +82,38 @@ Diagram - EDR
 
 ## 스크린샷 및 상세 설명
 
-<img src="img/005.png" width="350">
+<img src="img/011.png" width="350">
 
 메인화면입니다.
 
-<img src="img/006.png" width="350">
+<img src="img/012.png" width="350">
 
-인 게임 화면입니다. 마우스 위치에 십자선이 위치하고 마우스 좌클릭 시 총알이 나갑니다.
+스크롤을 내리면 해당 화면이 보입니다. 무작위로 보여줍니다.
 
-<img src="img/007.png" width="350">
+<img src="img/013.png" width="350">
 
-일시정지 화면입니다.
+로그인 화면입니다.
 
-<img src="img/008.png" width="350">
+<img src="img/014.png" width="350">
 
-상점 화면 입니다.
+회원가입 화면입니다.
 
-<img src="img/009.png" width="350">
+<img src="img/015.png" width="350">
 
-전투 화면 입니다. 몬스터의 머리를 맞추면 데미지를 입습니다.
+전체 상품 목록 페이지 입니다. 원하는 기준으로 정렬이 가능합니다.
+
+<img src="img/016.png" width="350">
+
+QnA 페이지 입니다. 다른 사람이 질문한 내역도 확인이 가능합니다.
+
+<img src="img/017.png" width="350">
+
+장바구니 페이지 입니다.
+
+<img src="img/018.png" width="350">
+
+결제 후 주문 내역입니다.
+
+<img src="img/019.png" width="350">
+
+상품의 평가를 내릴 수 있는 페이지 입니다.

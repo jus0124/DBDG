@@ -12,12 +12,12 @@ My SQL을 활용하여 데이터베이스를 운용, Node.js를 활용한 온라
 ## ER 다이어그램
 <br>
 
-<center><Diagram - ER><center>
+Diagram - ER
 <br>
 <img src="img/001.png">
 <br><br>
   
-<center><Diagram - EDR><center>
+Diagram - EDR
 <br>
   <img src="img/002.png">
 

@@ -11,7 +11,7 @@ My SQL을 활용하여 데이터베이스를 운용, Node.js를 활용한 모의
 - 평가
 - QnA
 
-
+## 개발환경
 | 하드웨어 환경 | 소프트웨어 환경 |
 | --- | --- |
 | CPU : Ryzen 5 5700X <br><br>GPU : NVIDIA GeForce 2060 8GB <br>8Gbps(Memory Speed), Compute Capability 6.1 <br><br>Memory : 16GB, 2133MHz<br><br>저장장치 : HDD | My SQL ver 8.0 <br><br> Node.js ver 21 <br><br> |

@@ -43,8 +43,30 @@ Diagram - EDR
 
 <br>
 
-## 몬스터 패턴 원리 및 설명
-유니티에서 제공하는 mathf()를 사용하여 도형을 구현하였습니다. 원하는 도형의 꼭짓점의 개수를 구하고, 360f에서 꼭짓점 수를 나누게 되면 각 꼭짓점 간의 각도를 구할 수 있습니다. 이를 A라고 가정합니다. 이후 각도 A를 라디안으로 변환 해야하는데, 반복문을 사용하여 각 꼭짓점에 ‘A*Mathf.Deg2Red’를 사용하면 B라는 라디안이 나오게 됩니다. 원의 방정식인 ‘x = Mathf.Cos(B) * 반지름’, ‘y = Mathf.Sin(B) * 반지름’를 이용하여 (x, y)를 구한뒤 ‘vector2(x, y)’를 통해 총알 위치를 설정하면 다양한 탄막을 구현 할 수 있습니다. 
+## SQL 데이터
+<br>
+<center><개인 로그인 데이터 ></center>
+ <img src="img/005.png" width="350">
+  
+ <br>
+<center><QnA 기능 데이터></center>
+ <img src="img/006.png" width="350">
+ 
+<br>
+<center><상품 데이터></center>
+ <img src="img/007.png" width="350">
+
+<br>
+<center><추첨 데이터></center>
+ <img src="img/008.png" width="350">
+
+<br>
+<center><리뷰 데이터></center>
+ <img src="img/009.png" width="350">
+  
+<br>
+<center><장바구니 데이터></center>
+ <img src="img/010.png" width="350">
 
 
 <br>
